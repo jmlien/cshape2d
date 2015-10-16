@@ -2,8 +2,7 @@
 ![Delaunay triangulation](images/lifted2.png?raw=true "Delaunay triangulation")
 ===============================================================================
 
-This program shows a visualization of computation of Delaunay triangulation
-by computing the convex hull of lifted 2D points to a 3D paraboloid. 
+This program shows a visualization of Delaunay triangulation computed via the convex hull of lifted 2D points to a 3D paraboloid. 
 
 Qhull http://www.qhull.org/ is used to do most of the heavy lifting stuff. 
 
