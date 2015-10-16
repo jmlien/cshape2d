@@ -1,3 +1,5 @@
+
+[![Delaunay triangulation](images/lifted.png?raw=true "Delaunay triangulation")]
 ===============================================================================
 
 This program shows a visualization of computation of Delaunay triangulation
