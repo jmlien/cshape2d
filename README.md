@@ -1,5 +1,5 @@
 
-![Delaunay triangulation](images/lifted.png?raw=true "Delaunay triangulation")
+![Delaunay triangulation](images/lifted2.png?raw=true "Delaunay triangulation")
 ===============================================================================
 
 This program shows a visualization of computation of Delaunay triangulation
@@ -29,3 +29,5 @@ esc: quit
 
 Let me know if there are problems/bug.
 jmlien@cs.gmu.edu
+
+![Delaunay triangulation](images/lifted.png?raw=true "Delaunay triangulation")
